@@ -1,0 +1,9 @@
+{
+	"name": "afp2021-lr255021-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34737b21-3d58-4c1d-b36a-c4c8a2b933dd",
+		"tenantId": "7998488c-180b-404d-9d7f-b4bd6f46b2df"
+	}
+}
