@@ -1,0 +1,7 @@
+{
+	"name": "IR-LR255021-SH",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Self Hosted IR"
+	}
+}
