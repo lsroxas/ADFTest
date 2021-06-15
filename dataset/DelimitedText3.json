@@ -10,7 +10,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "flatfile1.dat",
 				"folderPath": "data",
 				"container": "lr255021"
 			},
