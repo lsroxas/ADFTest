@@ -1,0 +1,21 @@
+{
+	"name": "DestinationDataset_6np",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "TD2Blob",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "flatfile1.dat",
+				"folderPath": "data",
+				"container": "lr255021"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}
