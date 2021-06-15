@@ -1,0 +1,16 @@
+{
+	"name": "SourceDataset_6np",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Teradata_Azure",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "TeradataTable",
+		"schema": [],
+		"typeProperties": {
+			"database": "AFP_2021_lr255021",
+			"table": "CELL_SITE_BILLING_RENT"
+		}
+	}
+}
