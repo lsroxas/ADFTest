@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "Teradata",
 		"typeProperties": {
-			"connectionString": "dbcname=10.1.0.4;uid=AFP_2021_LR255021",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0ZjQwZjE4MC00NGEwLTQ4MWEtOTQ5MS02MWE1MmFlOTdkMTIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"connectionString": "dbcname=40.71.42.54;uid=AFP_2021_LR255021",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0MTM3MDQ0MS1hYjU5LTRjNDgtOGY0ZS0wZmIzMTFhNjE3YWUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "IR-LR255021-SH",
