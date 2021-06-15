@@ -1,0 +1,16 @@
+{
+	"name": "TeradataTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Teradata_Azure",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "TeradataTable",
+		"schema": [],
+		"typeProperties": {
+			"database": "AFP_2021_lr255021",
+			"table": "ENGINE_SENSOR_DATA_STO_COURSE"
+		}
+	}
+}
