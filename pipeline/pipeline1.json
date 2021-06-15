@@ -166,6 +166,8 @@
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
 							"recursive": true,
+							"wildcardFolderPath": "data",
+							"wildcardFileName": "*.dat",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
