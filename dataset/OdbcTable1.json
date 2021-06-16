@@ -9,7 +9,7 @@
 		"type": "OdbcTable",
 		"schema": [],
 		"typeProperties": {
-			"tableName": "\"AFP_2021_lr255021\".\"AFP_OUTPUT\""
+			"tableName": "\"AFP_2021_lr255021\".\"ADF_OUTPUT_1\""
 		}
 	}
 }
