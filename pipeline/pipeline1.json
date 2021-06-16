@@ -165,9 +165,7 @@
 						"type": "DelimitedTextSource",
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
-							"recursive": true,
-							"wildcardFolderPath": "ouptut",
-							"wildcardFileName": "*.csv",
+							"recursive": false,
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
