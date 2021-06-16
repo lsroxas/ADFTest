@@ -167,7 +167,7 @@
 							"type": "AzureBlobStorageReadSettings",
 							"recursive": true,
 							"wildcardFolderPath": "ouptut",
-							"wildcardFileName": "*.csv",
+							"wildcardFileName": "*.*",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
