@@ -166,8 +166,8 @@
 						"storeSettings": {
 							"type": "AzureBlobStorageReadSettings",
 							"recursive": true,
-							"wildcardFolderPath": "ouptut",
-							"enablePartitionDiscovery": false
+							"enablePartitionDiscovery": false,
+							"prefix": "part"
 						},
 						"formatSettings": {
 							"type": "DelimitedTextReadSettings"
