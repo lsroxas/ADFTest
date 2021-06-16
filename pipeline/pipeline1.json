@@ -167,7 +167,7 @@
 							"type": "AzureBlobStorageReadSettings",
 							"recursive": false,
 							"wildcardFolderPath": "ouptut",
-							"wildcardFileName": "*",
+							"wildcardFileName": "*.csv",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
@@ -190,7 +190,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText3",
+						"referenceName": "DelimitedText4",
 						"type": "DatasetReference"
 					}
 				],
